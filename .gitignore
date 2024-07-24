@@ -1,8 +1,9 @@
 #Folders
 laboro_tomato
 tomato_venv
-output
-output_image
+*.log
+*.png
+*.pth
 
 
 # Byte-compiled / optimized / DLL files
