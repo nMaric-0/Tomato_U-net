@@ -1,3 +1,10 @@
+#Folders
+laboro_tomato
+tomato_venv
+output
+output_image
+
+
 # Byte-compiled / optimized / DLL files
 __pycache__/
 *.py[cod]
